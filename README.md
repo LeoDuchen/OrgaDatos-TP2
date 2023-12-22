@@ -1,2 +1,5 @@
-# OrgaDatos-TP2
-Segundo trabajo práctico para Organización de Datos, FIUBA, 2C-2023
+# Trabajo Práctico 2 de Organización de Datos
+
+Machine Learning - Trabajo Práctico 2 de Organización de Datos de FIUBA (Cátedra Martinelli)
+
+Dataset: https://www.kaggle.com/competitions/vpn-classification/overview
